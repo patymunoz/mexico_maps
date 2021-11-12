@@ -1,2 +1,2 @@
 
-https://patymunoz.github.io/mexico_maps/choropleth_map.html
+https://patymunoz.github.io/mexico_maps/pop_states.html
